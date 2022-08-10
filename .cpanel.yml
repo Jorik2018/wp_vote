@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/grupoipe/public_html/wp-content/plugins/vote/
+    - export DEPLOYPATH=/home/grupoipe/public_html/wp-content/plugins/vote
     - /bin/cp index.php $DEPLOYPATH
