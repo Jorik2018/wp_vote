@@ -1,3 +1,3 @@
 <?php
-echo "Hello dummy 5!"
+echo "Hello dummy 6!"
 ?>
