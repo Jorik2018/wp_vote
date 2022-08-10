@@ -1,3 +1,3 @@
 <?php
-echo "Hello dummy 7!"
+echo "Last Hello!"
 ?>
